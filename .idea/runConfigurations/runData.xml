@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="runData" type="Application" factoryName="Application" singleton="true">
+    <envs>
+      <env name="MOD_CLASSES" value="workerscraft%%$PROJECT_DIR$/../workerscraft\build\resources\main;workerscraft%%$PROJECT_DIR$/../workerscraft\build\classes\java\main" />
+      <env name="MCP_MAPPINGS" value="snapshot_20201028-1.16.3" />
+      <env name="MCP_VERSION" value="20201102.104115" />
+      <env name="FORGE_VERSION" value="35.1.37" />
+      <env name="FORGE_GROUP" value="net.minecraftforge" />
+      <env name="target" value="fmluserdevdata" />
+      <env name="MC_VERSION" value="1.16.4" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="net.minecraftforge.userdev.LaunchTesting" />
+    <module name="workerscraft.main" />
+    <option name="PROGRAM_PARAMETERS" value="--mod workerscraft --all --output D:\workerscraft\src\generated\resources --existing D:\workerscraft\src\main\resources" />
+    <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workerscraft\run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks=":prepareRunData" externalProjectPath="$PROJECT_DIR$" />
+    </method>
+  </configuration>
+</component>

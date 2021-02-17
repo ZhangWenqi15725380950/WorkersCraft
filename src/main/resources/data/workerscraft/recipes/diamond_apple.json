@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:craft_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {"item": "minecraft:diamond"},
+    "B": {"item": "minecraft:apple"}
+  },
+  "result": {
+    "item": "workerscraft:diamond_apple",
+    "count": 1
+  }
+}
