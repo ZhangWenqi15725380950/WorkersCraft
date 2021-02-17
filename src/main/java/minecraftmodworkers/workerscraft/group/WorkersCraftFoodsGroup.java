@@ -1,4 +1,4 @@
-package minecraftmodworkers.workerscraft.Group;
+package minecraftmodworkers.workerscraft.group;
 
 import minecraftmodworkers.workerscraft.ItemRegister;
 import net.minecraft.item.ItemGroup;

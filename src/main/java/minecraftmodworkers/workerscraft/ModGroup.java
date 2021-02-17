@@ -1,9 +1,8 @@
 package minecraftmodworkers.workerscraft;
 
-import minecraftmodworkers.workerscraft.Group.WorkersCraftFoodsGroup;
-import minecraftmodworkers.workerscraft.Group.WorkersCraftGroup;
-import minecraftmodworkers.workerscraft.Group.WorkerscraftToolsGroup;
-import net.minecraft.item.Item;
+import minecraftmodworkers.workerscraft.group.WorkersCraftFoodsGroup;
+import minecraftmodworkers.workerscraft.group.WorkersCraftGroup;
+import minecraftmodworkers.workerscraft.group.WorkerscraftToolsGroup;
 import net.minecraft.item.ItemGroup;
 
 public class ModGroup {
