@@ -1,9 +1,9 @@
 package minecraftmodworkers.workerscraft.tools;
 
-import minecraftmodworkers.workerscraft.ItemRegister;
 import minecraftmodworkers.workerscraft.ModGroup;
 import net.minecraft.item.*;
 import net.minecraft.item.crafting.Ingredient;
+import org.jetbrains.annotations.NotNull;
 
 public class EmeraldSword extends SwordItem {
 
@@ -29,7 +29,7 @@ public class EmeraldSword extends SwordItem {
 
         @Override
         public float getAttackDamage() {
-            return 4.0F;
+            return 6.5F;
         }
 
         @Override
@@ -42,6 +42,7 @@ public class EmeraldSword extends SwordItem {
             return 30;
         }
 
+        @NotNull
         @Override
         public Ingredient getRepairMaterial() {
             return Ingredient.fromItems(Items.EMERALD);
