@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22435d63-7d93-4071-a772-42f236f5c5a6" name="默认的" comment="" />
+    <list default="true" id="22435d63-7d93-4071-a772-42f236f5c5a6" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workerscraft.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workerscraft.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workerscraft.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workerscraft.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runClient.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runClient.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" beforeDir="false" afterPath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/createSrgToMcp/output.srg" beforeDir="false" afterPath="$PROJECT_DIR$/build/createSrgToMcp/output.srg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/Group/WorkersCraftFoodsGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/group/WorkersCraftFoodsGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/Group/WorkersCraftGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/group/WorkersCraftGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/Group/WorkerscraftToolsGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/group/WorkerscraftToolsGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/ModGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minecraftmodworkers/workerscraft/ModGroup.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
